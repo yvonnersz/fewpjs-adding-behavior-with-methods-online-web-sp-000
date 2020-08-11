@@ -18,6 +18,6 @@ class Dog {
   }
 
   speak() {
-    return `${dog.name} says woof!`
+    return `${this.name} says woof!`
   }
 }
