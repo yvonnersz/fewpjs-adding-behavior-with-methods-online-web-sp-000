@@ -5,4 +5,8 @@ class Cat {
     this.name = name;
     this.sex = gender;
   }
+
+  speak() {
+
+  }
 }
